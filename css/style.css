@@ -1,0 +1,191 @@
+body {
+  background-image: url("images/image1.jpg");
+
+}
+.list{
+  list-style-type:none;
+  display:flex;
+  margin-LEFT:300px;
+  margin-top:35px;
+  
+}
+.expl{
+  margin-left: 20px;
+}
+.ki{
+  margin-right:70px;
+  font-size:1.1em;
+  color:BLACK;
+}
+.mi{
+  margin-right:20px;
+  margin-top:20PX;
+  font-size:1.1em;
+}
+
+#sans{
+  margin-top: 20px;
+}
+   
+#menu{
+  margin-left: 200px;
+}
+ul{
+  list-style-type:none;
+  float: left;
+}
+
+li a:hover{
+    background-color: #FFD700;
+}
+img{
+  width:150px;
+  height:150px;
+}
+.price{
+  display:flex;
+  text-align:center;
+  margin-top:50px;
+  
+ 
+}
+
+.string4 {
+  margin-right:20px;
+  text-align:center;
+ 
+}
+.string5{
+  margin-right:20px;
+  text-align:center;
+}
+.string6{
+ margin-right:20px;
+ text-align:center;
+}
+
+.header{
+  display:flex;
+  
+}
+.buy{
+  display:flex;
+  
+}
+.btn{
+  height:40px;
+  margin-left: 40px;
+  font-size: 1em;
+  font-weight: 900;
+  text-transform: uppercase;
+  border: 3px black solid;
+  border-radius: 2px;
+  background: #FFD700;
+  cursor: pointer;
+}
+footer{
+  text-align:center;
+}
+#features{
+ margin-left:100px;
+  
+}
+ .desc{
+  display:flex;
+   margin-bottom:40px;
+}
+#premium{
+  width:100px;
+  height:100px;
+  margin-right:100px;
+}
+
+.basslesson{
+  align-item:center;
+  text-align:center;
+}
+#hero{
+  text-align:CENTER;
+  Margin-bottom:100px;
+  display:flex;
+  flex-direction:column;
+}
+#email{
+  font-size:1em;
+}
+.btn1{
+  width:100px;
+  height:35px;
+  background-color:#FFD700;
+  font-weight:bold;
+  cursor:pointer;
+ border-radius:2px;
+}
+
+.btn1:hover{
+  text-transform: uppercase;
+  size:scale(2);
+}
+p{
+  font-family:'Roboto Condensed';
+}
+
+.victor{
+  font-family:'Hanalei Fill', cursive;
+}
+
+.tet{
+  background-color:#E6E6FA;
+  
+  
+}
+
+a:link
+{
+  text-decoration:none;
+  color:#663399;
+}
+
+.form{
+  width: 400px;
+  margin-left: 300px;
+  margin-top: 30px;
+  padding-left:10px;
+}
+
+.list2{
+  margin-left:600px;
+  margin-top: 20px;
+}
+.foot{
+  text-align: center;
+
+}
+#Contact{
+  margin-top: 40px;
+}
+
+#payer{
+  background-color: #FFD700;
+}
+
+#footer { 
+  border-top:dashed 1px #cfcfcf; 
+  margin-top:20px; 
+  padding:10px 0; 
+  color:#8e8e8e;
+}
+#footer a{ 
+  color:#8e8e8e; 
+}
+ a:hover{ 
+  background-color:#FFD700;
+}
+#footer span{ 
+  padding:0 5px;
+}
+
+#info{
+  margin-left: 500px;
+}
+
